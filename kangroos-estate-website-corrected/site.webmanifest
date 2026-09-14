@@ -1,0 +1,16 @@
+{
+  "name": "Kangroos Estate",
+  "short_name": "Kangroos Estate",
+  "description": "Premium residential property and property services in Kharagpur, West Bengal.",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#183b2c",
+  "background_color": "#f7f5ef",
+  "icons": [
+    {
+      "src": "assets/images/logo/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
