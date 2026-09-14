@@ -1,1 +1,0 @@
-(()=>{document.querySelectorAll("[data-accordion-button]").forEach(b=>b.addEventListener("click",()=>{const item=b.closest(".faq-item"),open=item.classList.contains("open");item.classList.toggle("open",!open);b.setAttribute("aria-expanded",String(!open));const icon=b.querySelector("[data-accordion-icon]");if(icon)icon.textContent=open?"+":"−"}))})();
